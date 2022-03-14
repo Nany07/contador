@@ -1,3 +1,5 @@
+Contador:
+
 Aplicação prática de integralção de código javascript  com HTML
 
 - Uso do método addEventListener
